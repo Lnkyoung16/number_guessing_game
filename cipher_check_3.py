@@ -11,3 +11,4 @@ def cipher_check_3(X):
     else:
         print("3자리 숫자를 입력해주세요.")
     return result
+
