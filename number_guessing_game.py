@@ -6,6 +6,7 @@ random_number = []
 
 for n in range(0,3):
     random_number.append(random.randint(0,9))
+    123
 s = 0
 a = 1
 while s < 3:

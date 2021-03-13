@@ -8,7 +8,5 @@ def cipher_check_3(X):
             temp = int(temp)
             result.append(temp)
             X = X - (temp * c)
-    else:
-        print("3자리 숫자를 입력해주세요.")
     return result
 
